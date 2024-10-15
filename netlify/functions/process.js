@@ -87,6 +87,3 @@
        };
      }
    };
-
-
-Add Netlify serverless function for OpenAI integration
